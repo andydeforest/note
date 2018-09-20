@@ -1,0 +1,16 @@
+html,body {
+	height: 100;
+}
+
+body {
+	background: url('/images/bg.jpg') no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.full-height {
+    height: 100vh !important;
+    overflow: hidden;
+}

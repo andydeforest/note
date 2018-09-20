@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Ubuntu|Crimson+Text');
+
+.navbar {
+	background: rgba(0,0,0,0) !important;
+	border-bottom: 2px solid rgba(255,255,255,0.2);
+}
+
+.navbar-brand {
+	font-family: 'Permanent Marker', cursive !important;
+	text-transform: uppercase;
+	font-size: 28px;
+	letter-spacing: 3px;
+}
