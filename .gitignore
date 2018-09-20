@@ -1,4 +1,5 @@
 /node_modules
 /client/node_modules
 /music/*
+!music/.gitkeep 
 .env
