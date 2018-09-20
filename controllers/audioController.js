@@ -27,16 +27,5 @@ module.exports = {
 		});
 
 
-	},
-
-	play: function(req, res, next) {
-		let filepath = req.body.filepath;
-		return res.send({test: req.body.filepath})
-	},
-
-	update: function(req, res, next) {
-		
-		return res.send({test: "hi"});
 	}
-
 };
